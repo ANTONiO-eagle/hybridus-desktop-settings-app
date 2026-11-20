@@ -1,0 +1,9 @@
+Firmware export table: 0x080ac090, 3051 rows; 3051 names matched against pinned SDK and six Hybridus names.
+hybridus_vgm_settings_get 0x0803f4b9
+hybridus_vgm_settings_set 0x0803f4e9
+hybridus_vgm_settings_init 0x0803f421
+hybridus_vgm_settings_save 0x0803f519
+hybridus_color_get 0x0803f3cd
+hybridus_color_set 0x0803f3e1
+reproduced-b.fap 167 imports; missing: []
+F7/API 88.27; app 0.2; stack 1024 bytes; manifest 1

@@ -1,0 +1,7 @@
+assets/icons/Archive/unknown_10px.png
+assets/icons/Dolphin/DolphinMafia_119x62.png
+assets/icons/PIN/Pin_arrow_up_7x9.png
+assets/icons/PIN/Pin_attention_dpad_29x29.png
+assets/icons/PIN/Pin_back_arrow_10x8.png
+assets/icons/PIN/Pin_pointer_5x3.png
+assets/icons/PIN/Pin_star_7x7.png

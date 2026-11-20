@@ -1,0 +1,8 @@
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_start.c
+	SDKCHK	targets/f7/api_symbols.csv
+	LINK	build/f7-firmware-DC/.extapps/desktop_settings_d.elf
+[32mAPI version 88.27 is up to date[0m
+	APPMETA	build/f7-firmware-DC/.extapps/desktop_settings.fap
+	FAP	build/f7-firmware-DC/.extapps/desktop_settings.fap
+	FASTFAP	build/f7-firmware-DC/.extapps/desktop_settings.fap
+	APPCHK	build/f7-firmware-DC/.extapps/desktop_settings.fap

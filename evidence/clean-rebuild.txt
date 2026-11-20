@@ -1,0 +1,140 @@
+Note: switching to '9c6327764c18fc8376b5941aa8bde79fe681fe8f'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+Updating files:  72% (3661/5017)
+Updating files:  73% (3663/5017)
+Updating files:  74% (3713/5017)
+Updating files:  75% (3763/5017)
+Updating files:  76% (3813/5017)
+Updating files:  77% (3864/5017)
+Updating files:  78% (3914/5017)
+Updating files:  79% (3964/5017)
+Updating files:  80% (4014/5017)
+Updating files:  81% (4064/5017)
+Updating files:  82% (4114/5017)
+Updating files:  83% (4165/5017)
+Updating files:  84% (4215/5017)
+Updating files:  85% (4265/5017)
+Updating files:  86% (4315/5017)
+Updating files:  87% (4365/5017)
+Updating files:  88% (4415/5017)
+Updating files:  89% (4466/5017)
+Updating files:  90% (4516/5017)
+Updating files:  91% (4566/5017)
+Updating files:  92% (4616/5017)
+Updating files:  92% (4661/5017)
+Updating files:  93% (4666/5017)
+Updating files:  94% (4716/5017)
+Updating files:  95% (4767/5017)
+Updating files:  96% (4817/5017)
+Updating files:  97% (4867/5017)
+Updating files:  98% (4917/5017)
+Updating files:  99% (4967/5017)
+Updating files: 100% (5017/5017)
+Updating files: 100% (5017/5017), done.
+ * branch            df6334cdde0c88e22ab09ba16b12222cfccf834a -> FETCH_HEAD
+Submodule path 'applications/main/subghz_remote': checked out 'df6334cdde0c88e22ab09ba16b12222cfccf834a'
+ * branch            d827357e8bc3dc68d73158998e9fa52509f30836 -> FETCH_HEAD
+Submodule path 'assets/protobuf': checked out 'd827357e8bc3dc68d73158998e9fa52509f30836'
+ * branch            def7d2df2b0506d3d249334974f51e427c17a41c -> FETCH_HEAD
+Submodule path 'lib/FreeRTOS-Kernel': checked out 'def7d2df2b0506d3d249334974f51e427c17a41c'
+ * branch            4273ca3211b99914f31518378fb590fbff064953 -> FETCH_HEAD
+Submodule path 'lib/FreeRTOS-Kernel/portable/ThirdParty/Community-Supported-Ports': checked out '4273ca3211b99914f31518378fb590fbff064953'
+ * branch            3f9c99a682c5c796bb7eb89fd9c4385688fce27a -> FETCH_HEAD
+Submodule path 'lib/FreeRTOS-Kernel/portable/ThirdParty/Partner-Supported-Ports': checked out '3f9c99a682c5c796bb7eb89fd9c4385688fce27a'
+Submodule path 'lib/heatshrink': checked out '7398ccc91652a33483245200cfa1a83b073bc206'
+ * branch            6ca2857519f996244f7b324dd227fdf0a075fffb -> FETCH_HEAD
+Submodule path 'lib/libusb_stm32': checked out '6ca2857519f996244f7b324dd227fdf0a075fffb'
+ * branch            107ea89daaefb9867ea9121002fbbdf926780e98 -> FETCH_HEAD
+Submodule path 'lib/mbedtls': checked out '107ea89daaefb9867ea9121002fbbdf926780e98'
+ * branch            94599c0e3b5036e086446a51a3f79640f70f22f6 -> FETCH_HEAD
+Submodule path 'lib/mbedtls/framework': checked out '94599c0e3b5036e086446a51a3f79640f70f22f6'
+Submodule path 'lib/microtar': checked out '1e921369b2c92bb219fcef84a37d4d2347794c0f'
+ * branch            62c8ac3e5d4a7a4f8757328e7a80286fde2686b6 -> FETCH_HEAD
+Submodule path 'lib/mlib': checked out '62c8ac3e5d4a7a4f8757328e7a80286fde2686b6'
+ * branch            6cfe48d6f1593f8fa5c0f90437f5e6522587745e -> FETCH_HEAD
+Submodule path 'lib/nanopb': checked out '6cfe48d6f1593f8fa5c0f90437f5e6522587745e'
+ * branch            d1b860584dfe24d40d455ae624ed14600dfa93c9 -> FETCH_HEAD
+Submodule path 'lib/stm32wb_cmsis': checked out 'd1b860584dfe24d40d455ae624ed14600dfa93c9'
+Submodule path 'lib/stm32wb_copro': checked out '133182d5583e998bb263cd947105be4df9c29cb3'
+Submodule path 'lib/stm32wb_copro/scripts': checked out '781464e628eb694b4c98a79ab524c293f527fc8d'
+ * branch            cfd0dd258cb031c95b2b2d6d04c19f9f625fe3e8 -> FETCH_HEAD
+Submodule path 'lib/stm32wb_hal': checked out 'cfd0dd258cb031c95b2b2d6d04c19f9f625fe3e8'
+	CC	applications/settings/desktop_settings/helpers/pin_code.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene.c
+	ICONS	build/f7-firmware-DC/assets/compiled/assets_icons.c
+	CC	applications/settings/desktop_settings/hybridus_vgm_model.c
+	PROTO	assets/protobuf/application.proto
+	CC	build/f7-firmware-DC/assets/compiled/assets_icons.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_pin_setup_howto.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_favorite.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_name_popup.c
+	CC	build/f7-firmware-DC/assets/compiled/application.pb.c
+	CC	applications/settings/desktop_settings/views/desktop_settings_view_pin_setup_howto.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_pin_error.c
+	CC	applications/settings/desktop_settings/desktop_settings_app.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_pin_setup_done.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_change_name.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_happy_mode.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_start.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_pin_disable.c
+	CC	applications/settings/desktop_settings/views/desktop_view_pin_input.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_pin_setup.c
+	CC	applications/settings/desktop_settings/hybridus_vgm_ui.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_pin_setup_howto2.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_pin_auth.c
+	CC	applications/settings/desktop_settings/views/desktop_settings_view_pin_setup_howto2.c
+	CC	applications/settings/desktop_settings/scenes/desktop_settings_scene_pin_menu.c
+	CC	build/f7-firmware-DC/assets/compiled/desktop.pb.c
+	CC	build/f7-firmware-DC/assets/compiled/flipper.pb.c
+	CC	build/f7-firmware-DC/assets/compiled/gpio.pb.c
+	CC	build/f7-firmware-DC/assets/compiled/gps.pb.c
+	CC	build/f7-firmware-DC/assets/compiled/gui.pb.c
+	CC	build/f7-firmware-DC/assets/compiled/network.pb.c
+	CC	build/f7-firmware-DC/assets/compiled/property.pb.c
+	CC	build/f7-firmware-DC/assets/compiled/storage.pb.c
+	CC	build/f7-firmware-DC/assets/compiled/system.pb.c
+	DOLPHIN	blocking
+	DOLPHIN	internal
+2026-11-20 18:48:29,156 [INFO] Processing Dolphin sources[0m
+2026-11-20 18:48:29,156 [INFO] Loading data[0m
+2026-11-20 18:48:29,157 [INFO] Loading directory assets/dolphin/blocking[0m
+2026-11-20 18:48:29,159 [INFO] Processing Dolphin sources[0m
+2026-11-20 18:48:29,159 [INFO] Loading data[0m
+2026-11-20 18:48:29,159 [INFO] Loading directory assets/dolphin/internal[0m
+2026-11-20 18:48:29,160 [INFO] Packing[0m
+2026-11-20 18:48:29,163 [INFO] Packing[0m
+2026-11-20 18:48:29,472 [INFO] Complete[0m
+2026-11-20 18:48:29,471 [INFO] Complete[0m
+	CC	build/f7-firmware-DC/assets/compiled/assets_dolphin_internal.c
+	CC	build/f7-firmware-DC/assets/compiled/assets_dolphin_blocking.c
+	PBVER	build/f7-firmware-DC/assets/compiled/protobuf_version.h
+	APIPREP	build/f7-firmware-DC/sdk_origin.i
+	APIPP	build/f7-firmware-DC/sdk_origin.i
+	AR	build/f7-firmware-DC/assets/libassets.a
+	RANLIB	build/f7-firmware-DC/assets/libassets.a
+	INSTALL	build/f7-firmware-DC/lib/libassets.a
+	LINK	build/f7-firmware-DC/.extapps/desktop_settings_d.elf
+	SDKCHK	targets/f7/api_symbols.csv
+[32mAPI version 88.27 is up to date[0m
+	APPMETA	build/f7-firmware-DC/.extapps/desktop_settings.fap
+	FAP	build/f7-firmware-DC/.extapps/desktop_settings.fap
+	FASTFAP	build/f7-firmware-DC/.extapps/desktop_settings.fap
+	APPCHK	build/f7-firmware-DC/.extapps/desktop_settings.fap
+fe3568797e50c00de34aa4cfbf2af9a11d5a8b20f9acb6f9b22c9a14bf22ea3e  build/f7-firmware-DC/.extapps/desktop_settings.fap
+Clean FBT rebuild + original build: byte-identical after removing only .gnu_debuglink.
+f6f6b121216970364446f7419727ca0159d5488c849b6f56ab83eaf1ee1722af

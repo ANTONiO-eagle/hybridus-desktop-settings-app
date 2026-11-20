@@ -1,0 +1,4 @@
+RGB565: 196608 channel transitions preserve other color/flag bits and turn Sync off
+Input bounds: invalid field/index rejected without changes
+Desktop UI: row order, render, live RGB/flags; manual edit updates Sync row after array relocation
+Shell Color: rollback on failed save; VGM Save: explicit only, success/failure messages and no dialog leak
